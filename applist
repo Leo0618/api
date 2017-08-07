@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "legal": 0,
+            "legal": 1,
             "packageName": "com.leo618.gt"
         }
     ]
